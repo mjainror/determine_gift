@@ -20,15 +20,20 @@ X, Y, Z.
 Print YES if Bob can buy the gift, otherwise print NO.
 
 ** Constraints ** 
+```bash
 1 ≤ T ≤ 1000
+```
+
+```bash
 0 ≤ X, Y, Z ≤ 105
+```
 
 ** Sample Inp ** 
 ```bash
 3
-013
+0 1 3
 2 10 3
-880
+8 8 0
 ```
 
 **  Sample Output ** 
